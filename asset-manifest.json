@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/geslam587/calender.git/static/css/main.e6c13ad2.css",
+    "main.js": "/geslam587/calender.git/static/js/main.b75498b5.js",
+    "static/js/453.e30b9ca5.chunk.js": "/geslam587/calender.git/static/js/453.e30b9ca5.chunk.js",
+    "index.html": "/geslam587/calender.git/index.html",
+    "main.e6c13ad2.css.map": "/geslam587/calender.git/static/css/main.e6c13ad2.css.map",
+    "main.b75498b5.js.map": "/geslam587/calender.git/static/js/main.b75498b5.js.map",
+    "453.e30b9ca5.chunk.js.map": "/geslam587/calender.git/static/js/453.e30b9ca5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b75498b5.js"
+  ]
+}
